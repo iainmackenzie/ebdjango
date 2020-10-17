@@ -1,0 +1,37 @@
+{% extends 'querysocial/../base.html' %}
+
+{% block content %}
+    <h1>Quick Stats</h1>
+    <div class='color container-fluid'>
+        <div class="row">
+            {% for site in sites %}
+
+                <div class="col">
+
+                    <div class="card bg-light mb-3 text-center" style="width: 12rem;">
+                        <p></p>
+                        <img src="{{ site.logo }}" height="70" class="card-img-top" alt="...">
+
+                        <div class="card-body">
+                            <ul class="list-group">
+                                {% if site.stats %}
+                                    {% for stat in site.stats %}
+                                        <li class="list-group-item">{{ stat.count }} {{ stat.desc }}</li>
+                                    {% endfor %}
+                                {% else %}
+                                    <li class="list-group-item">No stats available</li>
+                                {% endif %}
+                            </ul>
+                            <p></p>
+                            <a href="{{ site.url }}" class="btn btn-primary">Your {{ site.sname }}</a>
+
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+
+    </div>
+
+{% endblock %}
+

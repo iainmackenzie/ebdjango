@@ -1,0 +1,37 @@
+{% extends 'querysocial/../base.html' %}
+
+{% block content %}
+    <h1>Quick Stats</h1>
+    {% if 1 %}
+        <div class="row">
+            {% for site in full_site_list %}
+                <div class="col">
+
+                    <div class="card" style="width: 13rem; height: 13rem;">
+
+                        <div class="card-body">
+                            <a href="{{ url }}">
+                                <img border="0" alt="Site" src="" width="60" height="60">
+                            </a>
+
+                            <h5 class="card-title">{{ site }} </h5>
+                            {% if site.uname %}
+                                <h6>ID: {{ uname }}</h6>
+                            {% endif %}
+
+                            <h6>
+                                <p>{{ stats }} </p>
+
+                            </h6>
+
+
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    {% else %}
+        <p>No urls are available.</p>
+    {% endif %}
+{% endblock %}
+

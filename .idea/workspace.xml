@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc546636-a454-43d5-9e43-6591fe9d6c29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Jenkins.Settings">
+    <option name="jenkinsVersion" value="VERSION_2" />
+    <option name="lastSelectedView" value="all" />
+    <option name="username" value="iainmackenzie" />
+  </component>
+  <component name="JupyterTrust" id="7f9cf239-29f7-4165-abd4-2040a19e8574" />
+  <component name="ProjectId" id="1ipJBx7oEiUlr0CeS5SVi6GyfDu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.Jenkins" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\iainm\PycharmProjects\ebdjango" />
+      <recent name="C:\Users\iainm\PycharmProjects\ebdjango\ebdjango" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ebdjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc546636-a454-43d5-9e43-6591fe9d6c29" name="Default Changelist" comment="" />
+      <created>1602598467368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602598467368</updated>
+      <workItem from="1602598488058" duration="284000" />
+      <workItem from="1602598966784" duration="234000" />
+      <workItem from="1602599220934" duration="5965000" />
+      <workItem from="1602608761867" duration="54000" />
+      <workItem from="1602610080311" duration="3745000" />
+      <workItem from="1602632535776" duration="1858000" />
+      <workItem from="1602694346081" duration="965000" />
+      <workItem from="1602695819863" duration="145000" />
+      <workItem from="1602696043920" duration="3343000" />
+      <workItem from="1602699407041" duration="730000" />
+      <workItem from="1602700220816" duration="4998000" />
+      <workItem from="1602705239052" duration="2536000" />
+      <workItem from="1602719943142" duration="2052000" />
+      <workItem from="1602722800535" duration="2325000" />
+      <workItem from="1602786933390" duration="6325000" />
+      <workItem from="1602882023428" duration="234000" />
+      <workItem from="1602882293837" duration="6000" />
+      <workItem from="1602885414513" duration="1618000" />
+      <workItem from="1602889500507" duration="419000" />
+      <workItem from="1602890198848" duration="482000" />
+      <workItem from="1602890724900" duration="355000" />
+      <workItem from="1602939042512" duration="269000" />
+      <workItem from="1602949288441" duration="249000" />
+      <workItem from="1602949568788" duration="2773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1602939223884">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@0.0.1920.1050" timestamp="1602722635943" />
+    <state x="2660" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@1920.0.1920.1050" timestamp="1602791595860" />
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1602939223884" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1602598772090">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@0.0.1920.1050" timestamp="1602598772090" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1602598772090">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@0.0.1920.1050" timestamp="1602598772090" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1602598772090">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@0.0.1920.1050" timestamp="1602598772090" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1602598772090">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@0.0.1920.1050" timestamp="1602598772090" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1602952661115">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2381" y="169" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@1920.0.1920.1050" timestamp="1602891025615" />
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1602952661115" />
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602718605945">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@0.0.1920.1050" timestamp="1602718605945" />
+    <state x="2587" y="258" width="585" height="534" key="find.popup" timestamp="1602723379523">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2587" y="258" width="585" height="534" key="find.popup/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@1920.0.1920.1050" timestamp="1602723379523" />
+    <state x="1077" y="100" width="672" height="678" key="search.everywhere.popup" timestamp="1602601482744">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1077" y="100" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@0.0.1920.1050" timestamp="1602601482744" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ebdjango$main.coverage" NAME="main Coverage Results" MODIFIED="1602598518202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
