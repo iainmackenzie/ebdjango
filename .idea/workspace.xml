@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc546636-a454-43d5-9e43-6591fe9d6c29" name="Default Changelist" comment="" />
+    <list default="true" id="dc546636-a454-43d5-9e43-6591fe9d6c29" name="Default Changelist" comment="2nd Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="Jenkins.Settings">
     <option name="jenkinsVersion" value="VERSION_2" />
@@ -14,6 +19,7 @@
   </component>
   <component name="JupyterTrust" id="7f9cf239-29f7-4165-abd4-2040a19e8574" />
   <component name="ProjectId" id="1ipJBx7oEiUlr0CeS5SVi6GyfDu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +34,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.Jenkins" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -92,19 +98,41 @@
       <workItem from="1602939042512" duration="269000" />
       <workItem from="1602949288441" duration="249000" />
       <workItem from="1602949568788" duration="2773000" />
+      <workItem from="1602976789974" duration="524000" />
+      <workItem from="1602977379967" duration="56000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1602976962297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602976962297</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2nd Commit">
+      <created>1602977169423</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602977169423</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="2nd Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd Commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1602939223884">
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1602977130694">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@0.0.1920.1050" timestamp="1602722635943" />
     <state x="2660" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@1920.0.1920.1050" timestamp="1602791595860" />
-    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1602939223884" />
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1602977130694" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1602598772090">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -121,15 +149,19 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@0.0.1920.1050" timestamp="1602598772090" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1602952661115">
+    <state x="461" y="169" key="SettingsEditor" timestamp="1602977435375">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="2381" y="169" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@1920.0.1920.1050" timestamp="1602891025615" />
-    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1602952661115" />
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1602977435375" />
     <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602718605945">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@0.0.1920.1050" timestamp="1602718605945" />
+    <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602977268096">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1602977268096" />
     <state x="2587" y="258" width="585" height="534" key="find.popup" timestamp="1602723379523">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>

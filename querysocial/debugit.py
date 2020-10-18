@@ -5,6 +5,7 @@ def multiply(*numbers):
     return total
 
 
+
 print("start")
 print(multiply(1, 2, 3))
 print("finish")
