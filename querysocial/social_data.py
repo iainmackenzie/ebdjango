@@ -36,7 +36,7 @@ def get_facebook_data(facebook_id, url):
 def get_youtube_stats(youtube_id):
     youtube_stats = []
     #youtube_service = build(serviceName='youtube', version='v3', developerKey=config.youtube_api_key)
-    ##youtube_request = youtube_service.channels().list(part='statistics', id=youtube_id)
+    #youtube_request = youtube_service.channels().list(part='statistics', id=youtube_id)
     #youtube_data = youtube_request.execute()
 
     #youtube_view_count = youtube_data['items'][0]['statistics']['viewCount']

@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc546636-a454-43d5-9e43-6591fe9d6c29" name="Default Changelist" comment="2nd Commit">
+    <list default="true" id="dc546636-a454-43d5-9e43-6591fe9d6c29" name="Default Changelist" comment="3rd Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ebdjango.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ebdjango.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/querysocial/social_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/querysocial/social_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,14 +41,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ebdjango/settings.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -100,6 +114,10 @@
       <workItem from="1602949568788" duration="2773000" />
       <workItem from="1602976789974" duration="524000" />
       <workItem from="1602977379967" duration="56000" />
+      <workItem from="1603031350672" duration="474000" />
+      <workItem from="1603032240001" duration="659000" />
+      <workItem from="1603037426966" duration="2458000" />
+      <workItem from="1603040120323" duration="356000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1602976962297</created>
@@ -115,24 +133,56 @@
       <option name="project" value="LOCAL" />
       <updated>1602977169423</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3rd Commit">
+      <created>1603031548490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603031548490</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="2nd Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd Commit" />
+    <MESSAGE value="3rd Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1602977130694">
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603040161050">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603040161050" />
+    <state x="719" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603031752377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="719" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603031752377" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603031567140">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603031567140" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1603040038533">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@0.0.1920.1050" timestamp="1602722635943" />
     <state x="2660" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@1920.0.1920.1050" timestamp="1602791595860" />
-    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1602977130694" />
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603040038533" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1602598772090">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -149,11 +199,11 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@0.0.1920.1050" timestamp="1602598772090" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1602977435375">
+    <state x="461" y="169" key="SettingsEditor" timestamp="1603040044961">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="2381" y="169" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050/1144.1080.1280.689@1920.0.1920.1050" timestamp="1602891025615" />
-    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1602977435375" />
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603040044961" />
     <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602718605945">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
